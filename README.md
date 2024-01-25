@@ -2,4 +2,6 @@
 
 # Juggling 
 
-### someone throwing objects.
+someone throwing objects.
+
+## Task List:
